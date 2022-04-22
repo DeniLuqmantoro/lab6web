@@ -25,13 +25,34 @@ Buatlah layout web sederhana menggunakan css framework (Twitter Bootsrtap).
 
 8. Menambah element lain pada content seperti gambar dan lain sebagainya, pada bootstrap kita bisa menggunakan cards, disini saya akan menggunakan col untuk membagi gambar per bagian masing-masing agar hasilnya lebih rapih. Dan membuat gambar menjadi bulat dengan menggunakan class rounded-circle.
 ![Screenshot (305)](https://user-images.githubusercontent.com/101716699/164629148-2efc4c0a-af65-4db6-9cee-1c5b49ce6139.png)
-bagian 2
-![Screenshot (306)](https://user-images.githubusercontent.com/101716699/164629208-81770388-0f8d-40e5-b45f-d1540bbc020b.png)
 
 9. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
-![Screenshot (307)](https://user-images.githubusercontent.com/101716699/164637923-ee59356d-a974-4553-b176-11a2aa401f0a.png)
+![Screenshot (310)](https://user-images.githubusercontent.com/101716699/164643909-751b6847-031a-4029-9d13-02714a0397f1.png)
 
 10. Menmbahkan widget link pada sebelah kanan card 1.
-![Screenshot (308)](https://user-images.githubusercontent.com/101716699/164641554-4c3a3c93-72ea-416d-a6f0-72587597ae54.png)
+![Screenshot (308)](https://user-images.githubusercontent.com/101716699/164644421-ee3f96b0-d6b0-43e2-bda2-4115c8e1db6c.png)
+
+11. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
+![Screenshot (311)](https://user-images.githubusercontent.com/101716699/164644513-1fe7f601-874f-4f1d-90d7-bff63b1042ce.png)
+
+12. Menambah element lain atau card 2 seperti pada gambar dibawah ini.
+![Screenshot (312)](https://user-images.githubusercontent.com/101716699/164644812-51b03731-04ce-4c24-bdbb-1d39ac6a8313.png)
+
+13. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
+![Screenshot (313)](https://user-images.githubusercontent.com/101716699/164645155-361fc653-95e7-426f-892b-6cb1b87f997c.png)
+
+14. Menambaahkn footer.
+![Screenshot (314)](https://user-images.githubusercontent.com/101716699/164646193-8414803e-09bd-4a65-8878-0c187876c314.png)![Screenshot (318)](https://user-images.githubusercontent.com/101716699/164646212-28f418b6-7647-44e6-8a40-403f4a5c65e5.png)
+
+15. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
+![image](https://user-images.githubusercontent.com/101716699/164646238-5500a1c6-e29a-49cc-89e4-da6f569bc41b.png)
+
+16. Menmbahkan style untuk card dan footer pada head.
+![Screenshot (316)](https://user-images.githubusercontent.com/101716699/164646199-78fe4e2a-e9b0-4f6b-b703-ed0e92c23d1d.png)
+
+17. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
+![Screenshot (317)](https://user-images.githubusercontent.com/101716699/164646209-f6fbe79b-7022-473f-ad94-235a252d1007.png)
+
+
 
 
