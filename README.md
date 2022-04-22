@@ -42,16 +42,17 @@ Buatlah layout web sederhana menggunakan css framework (Twitter Bootsrtap).
 ![Screenshot (313)](https://user-images.githubusercontent.com/101716699/164645155-361fc653-95e7-426f-892b-6cb1b87f997c.png)
 
 14. Menambaahkn footer.
-![Screenshot (314)](https://user-images.githubusercontent.com/101716699/164646193-8414803e-09bd-4a65-8878-0c187876c314.png)![Screenshot (318)](https://user-images.githubusercontent.com/101716699/164646212-28f418b6-7647-44e6-8a40-403f4a5c65e5.png)
+![Screenshot (314)](https://user-images.githubusercontent.com/101716699/164646193-8414803e-09bd-4a65-8878-0c187876c314.png)
 
 15. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
-![image](https://user-images.githubusercontent.com/101716699/164646238-5500a1c6-e29a-49cc-89e4-da6f569bc41b.png)
+![Screenshot (316)](https://user-images.githubusercontent.com/101716699/164646957-c08be59e-05fa-467a-a681-4168c6d7b17e.png)
 
 16. Menmbahkan style untuk card dan footer pada head.
-![Screenshot (316)](https://user-images.githubusercontent.com/101716699/164646199-78fe4e2a-e9b0-4f6b-b703-ed0e92c23d1d.png)
+![Screenshot (317)](https://user-images.githubusercontent.com/101716699/164647097-76e5dcd8-462d-478f-becc-ef2bc1f5391c.png)
 
 17. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
-![Screenshot (317)](https://user-images.githubusercontent.com/101716699/164646209-f6fbe79b-7022-473f-ad94-235a252d1007.png)
+![Screenshot (318)](https://user-images.githubusercontent.com/101716699/164647145-a5aed996-43bb-47f4-bc4f-9c14deb47109.png)
+
 
 
 
