@@ -42,16 +42,17 @@ Buatlah layout web sederhana menggunakan css framework (Twitter Bootsrtap).
 ![Screenshot (313)](https://user-images.githubusercontent.com/101716699/164645155-361fc653-95e7-426f-892b-6cb1b87f997c.png)
 
 14. Menambaahkn footer.
-![Screenshot (314)](https://user-images.githubusercontent.com/101716699/164646193-8414803e-09bd-4a65-8878-0c187876c314.png)
+![Screenshot (322)](https://user-images.githubusercontent.com/101716699/164919107-0026adb7-b0d0-4bef-b63d-ba41ff512225.png)
 
 15. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
-![Screenshot (316)](https://user-images.githubusercontent.com/101716699/164646957-c08be59e-05fa-467a-a681-4168c6d7b17e.png)
+![Screenshot (323)](https://user-images.githubusercontent.com/101716699/164925055-b83a8e3c-3370-49b2-b7dd-a34b2a28c57d.png)
 
 16. Menmbahkan style untuk card dan footer pada head.
 ![Screenshot (317)](https://user-images.githubusercontent.com/101716699/164647097-76e5dcd8-462d-478f-becc-ef2bc1f5391c.png)
 
 17. Simpan dan coba lihat hasilnya dengan cara membuka pada web browser.
-![Screenshot (318)](https://user-images.githubusercontent.com/101716699/164647145-a5aed996-43bb-47f4-bc4f-9c14deb47109.png)
+![Screenshot (324)](https://user-images.githubusercontent.com/101716699/164926622-c1b27af0-be3b-48d7-b2e8-c236c6850f49.png)
+
 
 
 
